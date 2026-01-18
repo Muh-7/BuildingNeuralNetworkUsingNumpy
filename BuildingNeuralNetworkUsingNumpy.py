@@ -64,9 +64,3 @@ print("Accuracy:", model.accuracy(X_batch, y_batch))
 
 
 
-
-argets = {
-    1: [(0,0),(3,0)],
-    2: [(0,3),(3,3)],
-    3: [(2,1),(0,2)]
-}
